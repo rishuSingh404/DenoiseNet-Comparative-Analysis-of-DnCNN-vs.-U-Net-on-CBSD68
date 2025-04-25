@@ -70,8 +70,8 @@ Elevate your image-restoration game with this turnkey denoising suite! We harnes
 
 ## 🔗 Weights & Biases Dashboards
 
-- **DnCNN Run**: [View on W&B]([https://wandb.ai/ashishsingh73178-indian-institute-of-technology-patna/DnCNN-Image-Denoising](https://wandb.ai/ashishsingh73178-indian-institute-of-technology-patna/DnCNN-Image-Denoising/reports/DnCNN--VmlldzoxMjA3NzEyOQ?accessToken=mdnrgwjue2nhqkyvozesj8own5d9fzpu1h6cjrlzj6kzxn3rbr73anv5cb9v2nok))  
-- **U-Net Run**: [View on W&B]([https://wandb.ai/ashishsingh73178-indian-institute-of-technology-patna/1e98v1nx](https://api.wandb.ai/links/ashishsingh73178-indian-institute-of-technology-patna/1e98v1nx))
+- **DnCNN Run**: ([https://wandb.ai/ashishsingh73178-indian-institute-of-technology-patna/DnCNN-Image-Denoising](https://wandb.ai/ashishsingh73178-indian-institute-of-technology-patna/DnCNN-Image-Denoising/reports/DnCNN--VmlldzoxMjA3NzEyOQ?accessToken=mdnrgwjue2nhqkyvozesj8own5d9fzpu1h6cjrlzj6kzxn3rbr73anv5cb9v2nok))  
+- **U-Net Run**: ([https://wandb.ai/ashishsingh73178-indian-institute-of-technology-patna/1e98v1nx](https://api.wandb.ai/links/ashishsingh73178-indian-institute-of-technology-patna/1e98v1nx))
 
 ---
 
