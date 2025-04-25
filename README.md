@@ -9,7 +9,7 @@ Elevate your image-restoration game with this turnkey denoising suite! We harnes
 
 ## 📁 Repository Structure
 
-```
+
 ├── README.md                                 
 ├── images/
 │   ├── comparison1.jpg      ← Noisy / Denoised / Ground Truth sample 1
@@ -22,7 +22,6 @@ Elevate your image-restoration game with this turnkey denoising suite! We harnes
 │   ├── noisy35/                              
 │   └── original_png/                         
 └── results/                                  
-```
 
 ---
 
