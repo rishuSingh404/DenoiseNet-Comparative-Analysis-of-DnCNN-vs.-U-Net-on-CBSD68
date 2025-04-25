@@ -10,12 +10,12 @@ Elevate your image-restoration game with this turnkey denoising suite! We harnes
 
 ```
 ├── README.md                                 
-├── images/
-│   ├── comparison1.jpg      ← Noisy / Denoised / Ground Truth sample 1
-│   └── comparison2.jpg      ← Noisy / Denoised / Ground Truth sample 2
+├── results/
+│   ├── DnCNN.jpg      ← Noisy / Denoised / Ground Truth (DnCNN)
+│   └── UNet.jpg      ← Noisy / Denoised / Ground Truth (UNet)
 ├── models/
-│   ├── dncnn.py                              
-│   └── unet.py                                                      
+│   ├── Denoising using DNCNN architecture.py                              
+│   └── Denoising using UNet architecture.py                                                      
 ├── requirements.txt                          
 ├── data/
 │   ├── noisy35/                              
