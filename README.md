@@ -1,4 +1,3 @@
-```markdown
 # 🚀 DenoiseNet
 
 **Comparative Analysis of DnCNN vs. U-Net on CBSD68** 📊
